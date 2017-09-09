@@ -1,0 +1,2127 @@
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+height:100%;
+width:100%;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+ 
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+}
+
+ #a a:link{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	height:100%;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 10px 10px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 10px 10px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 10px 10px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+.hvr-shutter-out-vertical {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  background: #e1e1e1;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  border-radius:5px;
+}
+.hvr-shutter-out-vertical:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ff4d4d;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50%;
+  transform-origin: 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  border-radius:5px;
+}
+.hvr-shutter-out-vertical:hover, .hvr-shutter-out-vertical:focus, .hvr-shutter-out-vertical:active {
+  color: white;
+  border-radius:5px;
+}
+.hvr-shutter-out-vertical:hover:before, .hvr-shutter-out-vertical:focus:before, .hvr-shutter-out-vertical:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+  border-radius:5px;
+}
+
+<!--abouther-->
+
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+  height:100%;
+	width:100%;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+ 
+
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	
+}
+#b a:link {
+	position: relative;
+	top:-505px;
+	left:500px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px -9px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+
+body{
+	
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+div.container1 {
+    text-align: left;
+height:100%;
+	width:100%;
+   
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+/*modal*/
+/* The Modal (background) */
+.modal1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: -30px;
+    top: 112px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+     /* Enable scroll if needed */
+}
+
+/* Modal Content */
+.modal-content1 {
+    position: relative;
+	right:-320px;
+    background-color: #993333;
+    margin: auto;
+    padding: 0;
+	
+    width:40%;
+	height:50%;
+	font-size:18px;
+	font-family:Lucida sans unicode;
+	color:white;
+	 border-radius:10px;
+    box-shadow: 8px 12px  rgba(0,0,0,0.2);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close1 {
+    color: white;
+	position:relative;
+	right:-495px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.modal-body1 {padding: -20px 10px;
+height:100%;
+	width:100%;
+	 
+ }
+
+
+
+
+<!--proj-->
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+height:100%;
+	width:100%;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+height:100%;
+	width:100%;
+	 overflow: auto;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+div.container2 {
+    text-align: left;
+height:100%;
+	width:100%;
+   overflow: auto;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+.cont-us {
+ background-color: #eee;
+  
+    float: left;
+  height:100%;
+	width:100%;
+    margin: 30px;
+    border: 3px solid #eee;  
+    box-shadow: 2px 2px 5px #888888
+   
+}
+<!--gal-->
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+height:100%;
+	width:100%;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+  
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+	
+}
+
+div.container3 {
+    text-align: left;
+height:100%;
+	width:100%;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+		 overflow: auto;
+    
+}
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0; 
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */ /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(255,255,255,0.5); /* Black w/ opacity */
+	 overflow: auto;
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+height:100%;
+	width:100%;
+    max-width: 700px;
+	 overflow: auto;
+}
+
+/* Caption of Modal Image */
+#caption {
+    margin: auto;
+    display: block;
+ overflow: auto;
+	width:100%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {    
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+<!--cal-->
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+height:100%;
+	width:100%;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	height:100%;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+height:100%;
+	width:100%;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	height:100%;
+	width:100%;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+div.container4 {
+    text-align: left;
+height:100%;
+	width:100%;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+  color:#993333;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+/*1*/
+/* The Modal (background) */
+.modal6 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: 100px;
+    top: 100px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+     /* Enable scroll if needed */
+}
+
+/* Modal Content */
+.modal-content6 {
+    position: relative;
+	right:-120px;
+    background-color: #993333;
+    margin: auto;
+    padding: 0;
+    height:100%;
+	width:100%;
+	font-size:15px;
+	font-family:Lucida sans unicode;
+	color:white;
+	 overflow: auto;
+	 border-radius:10px;
+    box-shadow: 8px 12px  rgba(0,0,0,0.2);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close6 {
+    color: white;
+	position:relative;
+	right:-120px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.close6:hover,
+.close6:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.modal-body6 {padding: -20px 10px;
+ overflow: auto;}
+
+ /* The Modal (background) */
+.modal2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: 90px;
+    top: 100px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto;/* Enable scroll if needed */
+}
+ /* Modal Content */
+.modal-content2 {
+    position: relative;
+	right:-565px;
+    background-color: #993333;
+    margin: auto;
+    padding: 0;
+    width:15%;
+	height:17%;
+	font-size:23px;
+	font-family:Lucida sans unicode;
+	color:white;
+ overflow: auto;
+	 border-radius:10px;
+    box-shadow: 8px 12px  rgba(0,0,0,0.2);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close2 {
+    color: white;
+	position:relative;
+	right:-80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.close2:hover,
+.close2:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.modal-body2 {padding: -20px 10px;
+  overflow: auto;}
+
+ @media only screen and (min-height: 400px){
+	 div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+  width:1350px;
+  height:30px;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+}
+
+ #a a:link{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:680px;
+	width:1340px;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 10px 10px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 10px 10px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 10px 10px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+.hvr-shutter-out-vertical {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  background: #e1e1e1;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  border-radius:5px;
+}
+.hvr-shutter-out-vertical:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #ff4d4d;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50%;
+  transform-origin: 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  border-radius:5px;
+}
+.hvr-shutter-out-vertical:hover, .hvr-shutter-out-vertical:focus, .hvr-shutter-out-vertical:active {
+  color: white;
+  border-radius:5px;
+}
+.hvr-shutter-out-vertical:hover:before, .hvr-shutter-out-vertical:focus:before, .hvr-shutter-out-vertical:active:before {
+  -webkit-transform: scaleY(1);
+  transform: scaleY(1);
+  border-radius:5px;
+}
+
+<!--abouther-->
+
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+  width:1350px;
+  height:30px;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+ 
+
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	
+}
+#b a:link {
+	position: relative;
+	top:-505px;
+	left:500px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:155px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px -9px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+
+body{
+	
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:680px;
+	width:1340px;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+div.container1 {
+    text-align: left;
+  width: 770px;
+    height: 440px;
+    overflow: auto;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+/*modal*/
+/* The Modal (background) */
+.modal1 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: -30px;
+    top: 112px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+     overflow: auto;/* Enable scroll if needed */
+}
+
+/* Modal Content */
+.modal-content1 {
+    position: relative;
+	right:-320px;
+    background-color: #993333;
+    margin: auto;
+    padding: 0;
+    width:40%;
+	height:50%;
+	font-size:18px;
+	font-family:Lucida sans unicode;
+	color:white;
+	  overflow: auto;
+	 border-radius:10px;
+    box-shadow: 8px 12px  rgba(0,0,0,0.2);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close1 {
+    color: white;
+	position:relative;
+	right:-495px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.close1:hover,
+.close1:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.modal-body1 {padding: -20px 10px;
+}
+
+
+
+
+<!--proj-->
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+  width:1350px;
+  height:30px;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+}
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:680px;
+	width:1340px;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+div.container2 {
+    text-align: left;
+  width: 770px;
+    height: 440px;
+   overflow: auto;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+.cont-us {
+ background-color: #eee;
+  
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    border: 3px solid #eee;  
+    box-shadow: 2px 2px 5px #888888
+   
+}
+<!--gal-->
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+  width:1350px;
+  height:30px;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:680px;
+	width:1340px;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+div.container3 {
+    text-align: left;
+  width: 770px;
+    height: 440px;
+   overflow: auto;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0; 
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(255,255,255,0.5); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {    
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)} 
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)} 
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+<!--cal-->
+div#footer {
+  position:absolute;
+  top:665px;
+  bottom:0px;
+  width:1350px;
+  height:30px;
+  background-color:  rgba(255,255,255,0.5);
+  text-align: center;
+  font-size:13px;
+  color:white;
+}
+
+ul.menu {
+    float: left;
+    margin: 0;
+      }
+  ul{
+    margin: 2px 0 22px 17px
+
+  }
+   li.part1 {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 8px 4px 0 4px;
+}
+a:link,a:hover, a:active, a:visited{
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	 background-color: #602020;
+	 border-radius: 5px;
+	 box-shadow:5px 5px rgba(255,255,255,0.5)
+
+}
+
+ #a a:link {
+	position: relative;
+	top:-550px;
+	left:120px;
+	right:600px;
+	bottom: 100px;
+    background-color: rgba(255,255,255,0.5);
+    color: white;
+    padding: 5px 20px;
+	width:130px;
+    text-align:center;
+    display: inline;
+    font-size: 20px;
+    margin: 5px 5px;
+    cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+body{
+	background-image: url("images/fin.png");
+	background-repeat:no-repeat;
+	height:100%;
+	width:100%;
+}
+.kyle{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/K.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.angel{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/A.png");-->
+	background-position: center;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	background-repeat:no-repeat;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+.barna{
+	font-family:berlin sans fb denim;
+	font-size: 115px;
+	color:  rgba(255,255,255,0.5);
+	<!--background-image: url("images/B.png");-->
+	background-position: center;
+	background-repeat:no-repeat;
+	border: 5px solid #666666;
+	padding: 9px;
+	width: 70px;
+	height: 120px;
+	position: relative;
+	top: 50px;
+	left: 440px;
+	box-shadow: 5px 5px rgba(255,255,255,0.5);
+	border-radius:20px;
+}
+
+div.container4 {
+    text-align: left;
+  width: 770px;
+    height: 440px;
+   overflow: auto;
+    padding: 0 0 0 5px;
+  position:relative;
+  right:-545px;
+  top:-475px;
+  color:#993333;
+    text-align: justify;
+     font: normal .90em 'trebuchet ms', arial, sans-serif;
+		background-color:rgba(255,255,255,0.5);
+    
+}
+/*1*/
+/* The Modal (background) */
+.modal6 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: 100px;
+    top: 100px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+}
+
+/* Modal Content */
+.modal-content6 {
+    position: relative;
+	right:-120px;
+    background-color: #993333;
+    margin: auto;
+    padding: 0;
+    width:20%;
+	height:18%;
+	font-size:15px;
+	font-family:Lucida sans unicode;
+	color:white;
+	 overflow: auto;
+	 border-radius:10px;
+    box-shadow: 8px 12px  rgba(0,0,0,0.2);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close6 {
+    color: white;
+	position:relative;
+	right:-120px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.close6:hover,
+.close6:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.modal-body6 {padding: -20px 10px;
+ overflow: auto;}
+
+ /* The Modal (background) */
+.modal2 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    right: 90px;
+    top: 100px;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+}
+ /* Modal Content */
+.modal-content2 {
+    position: relative;
+	right:-565px;
+    background-color: #993333;
+    margin: auto;
+    padding: 0;
+    width:15%;
+	height:17%;
+	font-size:23px;
+	font-family:Lucida sans unicode;
+	color:white;
+	 overflow: auto;
+	 border-radius:10px;
+    box-shadow: 8px 12px  rgba(0,0,0,0.2);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close2 {
+    color: white;
+	position:relative;
+	right:-80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.close2:hover,
+.close2:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.modal-body2 {padding: -20px 10px;
+ overflow: auto;}
+
+	 
+ }
