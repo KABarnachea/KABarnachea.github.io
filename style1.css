@@ -1,4 +1,5 @@
-div#footer {
+ @media only screen and (min-height: 400px){
+	 div#footer {
   position:absolute;
   top:665px;
   bottom:0px;
@@ -9,8 +10,10 @@ width:100%;
   font-size:13px;
   color:white;
 }
+}
 
-ul.menu {
+ @media only screen and (min-height: 400px){
+	 ul.menu {
     float: left;
     margin: 0;
       }
@@ -23,6 +26,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
+}
 }
 a:link,a:hover, a:active, a:visited{
 	position: relative;
@@ -45,7 +49,8 @@ a:link,a:hover, a:active, a:visited{
 	 box-shadow:5px 5px rgba(255,255,255,0.5)
 }
 
- #a a:link{
+ @media only screen and (min-height: 400px)
+	 {#a a:link{
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -64,14 +69,16 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 }
-
-
-body{
+}
+ @media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:100%;
 	width:100%;
 }
+}
+ @media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -123,7 +130,9 @@ body{
 	box-shadow: 10px 10px rgba(255,255,255,0.5);
 	border-radius:20px;
 }
-
+}
+ @media only screen and (min-height: 400px){
+	 
 .hvr-shutter-out-vertical {
   display: inline-block;
   vertical-align: middle;
@@ -168,9 +177,9 @@ body{
   transform: scaleY(1);
   border-radius:5px;
 }
-
+}
 <!--abouther-->
-
+ @media only screen and (min-height: 400px){
 div#footer {
   position:absolute;
   top:665px;
@@ -182,7 +191,9 @@ div#footer {
   font-size:13px;
   color:white;
 }
-
+}
+ @media only screen and (min-height: 400px){
+	 
 ul.menu {
     float: left;
     margin: 0;
@@ -197,7 +208,7 @@ ul.menu {
     list-style: none;
     margin: 8px 4px 0 4px;
 }
- 
+}
 
 a:link,a:hover, a:active, a:visited{
 	position: relative;
@@ -221,7 +232,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+ @media only screen and (min-height: 400px){
+	 #a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -259,14 +271,17 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 }
-
-body{
+}
+ @media only screen and (min-height: 400px){
+html,body{
 	
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:100%;
 	width:100%;
 }
+}
+ @media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -319,7 +334,8 @@ height:100%;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
 }
-
+}
+@media only screen and (min-height: 400px){
 div.container1 {
     text-align: left;
 height:100%;
@@ -333,9 +349,10 @@ height:100%;
      font: normal .90em 'trebuchet ms', arial, sans-serif;
 		background-color:rgba(255,255,255,0.5);
     
-}
+	}}
 /*modal*/
 /* The Modal (background) */
+@media only screen and (min-height: 400px){
 .modal1 {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -404,11 +421,12 @@ height:100%;
 	width:100%;
 	 
  }
-
+}
 
 
 
 <!--proj-->
+@media only screen and (min-height: 400px){
 div#footer {
   position:absolute;
   top:665px;
@@ -420,7 +438,8 @@ height:100%;
   font-size:13px;
   color:white;
 }
-
+}
+@media only screen and (min-height: 400px){
 ul.menu {
     float: left;
     margin: 0;
@@ -434,6 +453,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
+}
 }
 a:link,a:hover, a:active, a:visited{
 	position: relative;
@@ -458,7 +478,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+@media only screen and (min-height: 400px){
+	#a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -477,14 +498,17 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 }
-
-body{
+}
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
-height:100%;
+        height:100%;
 	width:100%;
 	 overflow: auto;
 }
+}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -535,7 +559,8 @@ height:100%;
 	left: 440px;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
-}
+	}}
+@media only screen and (min-height: 400px){
 div.container2 {
     text-align: left;
 height:100%;
@@ -549,7 +574,8 @@ height:100%;
      font: normal .90em 'trebuchet ms', arial, sans-serif;
 		background-color:rgba(255,255,255,0.5);
     
-}
+	}}
+@media only screen and (min-height: 400px){
 .cont-us {
  background-color: #eee;
   
@@ -560,9 +586,10 @@ height:100%;
     border: 3px solid #eee;  
     box-shadow: 2px 2px 5px #888888
    
-}
+	}}
 <!--gal-->
-div#footer {
+@media only screen and (min-height: 400px){
+	div#footer {
   position:absolute;
   top:665px;
   bottom:0px;
@@ -573,8 +600,8 @@ height:100%;
   font-size:13px;
   color:white;
   
-}
-
+	}}
+@media only screen and (min-height: 400px){
 ul.menu {
     float: left;
     margin: 0;
@@ -588,7 +615,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+	}}
 a:link,a:hover, a:active, a:visited{
 	position: relative;
 	top:-550px;
@@ -611,7 +638,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+@media only screen and (min-height: 400px){
+	#a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -629,14 +657,16 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 
-}
+	}}
 
-body{
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:100%;
 	width:100%;
-}
+	}}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -688,8 +718,8 @@ height:100%;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
 	
-}
-
+	}}
+@media only screen and (min-height: 400px){
 div.container3 {
     text-align: left;
 height:100%;
@@ -703,16 +733,17 @@ height:100%;
 		background-color:rgba(255,255,255,0.5);
 		 overflow: auto;
     
-}
-#myImg {
+	}}
+@media only screen and (min-height: 400px){#myImg {
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
 }
 
 #myImg:hover {opacity: 0.7;}
-
+}
 /* The Modal (background) */
+@media only screen and (min-height: 400px){
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -792,9 +823,11 @@ height:100%;
         width: 100%;
     }
 }
+}
 
 <!--cal-->
-div#footer {
+@media only screen and (min-height: 400px){
+	div#footer {
   position:absolute;
   top:665px;
   bottom:0px;
@@ -819,7 +852,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+	}}
 a:link,a:hover, a:active, a:visited{
 	position: relative;
 	top:-550px;
@@ -843,7 +876,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+@media only screen and (min-height: 400px){
+	#a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -862,14 +896,16 @@ height:100%;
 	text-decoration: none;
 	display: inline-block;
 
-}
+	}}
 
-body{
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:100%;
 	width:100%;
-}
+	}}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -920,8 +956,9 @@ body{
 	left: 440px;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
-}
+	}}
 
+@media only screen and (min-height: 400px){
 div.container4 {
     text-align: left;
 height:100%;
@@ -935,9 +972,10 @@ height:100%;
      font: normal .90em 'trebuchet ms', arial, sans-serif;
 		background-color:rgba(255,255,255,0.5);
     
-}
+	}}
 /*1*/
 /* The Modal (background) */
+@media only screen and (min-height: 400px){
 .modal6 {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -1066,7 +1104,7 @@ height:100%;
 
 
 .modal-body2 {padding: -20px 10px;
-  overflow: auto;}
+	overflow: auto;}}
 
  @media only screen and (min-height: 400px){
 	 div#footer {
@@ -1080,7 +1118,8 @@ height:100%;
   font-size:13px;
   color:white;
 }
-
+}
+@media only screen and (min-height: 400px){
 ul.menu {
     float: left;
     margin: 0;
@@ -1094,7 +1133,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+	}}
 a:link,a:hover, a:active, a:visited{
 	position: relative;
 	top:-550px;
@@ -1115,7 +1154,7 @@ a:link,a:hover, a:active, a:visited{
 	 border-radius: 5px;
 	 box-shadow:5px 5px rgba(255,255,255,0.5)
 }
-
+@media only screen and (min-height: 400px){
  #a a:link{
 	position: relative;
 	top:-550px;
@@ -1133,15 +1172,16 @@ a:link,a:hover, a:active, a:visited{
     cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-}
+	}}
 
-
-body{
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:680px;
 	width:1340px;
-}
+	}}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -1193,7 +1233,8 @@ body{
 	box-shadow: 10px 10px rgba(255,255,255,0.5);
 	border-radius:20px;
 }
-
+}
+@media only screen and (min-height: 400px){
 .hvr-shutter-out-vertical {
   display: inline-block;
   vertical-align: middle;
@@ -1238,9 +1279,9 @@ body{
   transform: scaleY(1);
   border-radius:5px;
 }
-
+}
 <!--abouther-->
-
+@media only screen and (min-height: 400px){
 div#footer {
   position:absolute;
   top:665px;
@@ -1251,7 +1292,8 @@ div#footer {
   text-align: center;
   font-size:13px;
   color:white;
-}
+	}}
+@media only screen and (min-height: 400px){
 
 ul.menu {
     float: left;
@@ -1266,7 +1308,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+	}}
  
 
 a:link,a:hover, a:active, a:visited{
@@ -1291,7 +1333,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+ @media only screen and (min-height: 400px){
+	 #a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -1328,8 +1371,9 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 }
-
-body{
+}
+@media only screen and (min-height: 400px){
+html,body{
 	
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
@@ -1355,7 +1399,7 @@ body{
 }
 .angel{
 	font-family:berlin sans fb denim;
-	font-size: 115px;
+	font-size: 115px; 
 	color:  rgba(255,255,255,0.5);
 	<!--background-image: url("images/A.png");-->
 	background-position: center;
@@ -1386,7 +1430,8 @@ body{
 	left: 440px;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
-}
+	}}
+@media only screen and (min-height: 400px){
 
 div.container1 {
     text-align: left;
@@ -1401,9 +1446,10 @@ div.container1 {
      font: normal .90em 'trebuchet ms', arial, sans-serif;
 		background-color:rgba(255,255,255,0.5);
     
-}
+	}}
 /*modal*/
 /* The Modal (background) */
+@media only screen and (min-height: 400px){
 .modal1 {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -1467,12 +1513,13 @@ div.container1 {
 
 
 .modal-body1 {padding: -20px 10px;
-}
+	}}
 
 
 
 
 <!--proj-->
+@media only screen and (min-height: 400px){
 div#footer {
   position:absolute;
   top:665px;
@@ -1483,8 +1530,8 @@ div#footer {
   text-align: center;
   font-size:13px;
   color:white;
-}
-
+}}
+@media only screen and (min-height: 400px){
 ul.menu {
     float: left;
     margin: 0;
@@ -1498,7 +1545,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+}}
 a:link,a:hover, a:active, a:visited{
 	position: relative;
 	top:-550px;
@@ -1521,7 +1568,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+@media only screen and (min-height: 400px){
+	#a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -1538,14 +1586,15 @@ a:link,a:hover, a:active, a:visited{
     cursor: pointer;
 	text-decoration: none;
 	display: inline-block;
-}
-
-body{
+	}}
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:680px;
 	width:1340px;
-}
+}}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -1596,8 +1645,9 @@ body{
 	left: 440px;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
-}
-div.container2 {
+}}
+@media only screen and (min-height: 400px){
+	div.container2 {
     text-align: left;
   width: 770px;
     height: 440px;
@@ -1610,7 +1660,8 @@ div.container2 {
      font: normal .90em 'trebuchet ms', arial, sans-serif;
 		background-color:rgba(255,255,255,0.5);
     
-}
+	}}
+@media only screen and (min-height: 400px){
 .cont-us {
  background-color: #eee;
   
@@ -1621,9 +1672,10 @@ div.container2 {
     border: 3px solid #eee;  
     box-shadow: 2px 2px 5px #888888
    
-}
+	}}
 <!--gal-->
-div#footer {
+@media only screen and (min-height: 400px){
+	div#footer {
   position:absolute;
   top:665px;
   bottom:0px;
@@ -1633,8 +1685,8 @@ div#footer {
   text-align: center;
   font-size:13px;
   color:white;
-}
-
+	}}
+@media only screen and (min-height: 400px){
 ul.menu {
     float: left;
     margin: 0;
@@ -1648,7 +1700,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+}}
 a:link,a:hover, a:active, a:visited{
 	position: relative;
 	top:-550px;
@@ -1670,7 +1722,7 @@ a:link,a:hover, a:active, a:visited{
 	 box-shadow:5px 5px rgba(255,255,255,0.5)
 
 }
-
+@media only screen and (min-height: 400px){
  #a a:link {
 	position: relative;
 	top:-550px;
@@ -1689,14 +1741,15 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 
-}
-
-body{
+	}}
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:680px;
 	width:1340px;
-}
+}}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -1747,8 +1800,9 @@ body{
 	left: 440px;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
-}
+}}
 
+@media only screen and (min-height: 400px){
 div.container3 {
     text-align: left;
   width: 770px;
@@ -1762,16 +1816,18 @@ div.container3 {
      font: normal .90em 'trebuchet ms', arial, sans-serif;
 		background-color:rgba(255,255,255,0.5);
     
-}
+}}
+@media only screen and (min-height: 400px){
 #myImg {
     border-radius: 5px;
     cursor: pointer;
     transition: 0.3s;
 }
 
-#myImg:hover {opacity: 0.7;}
+#myImg:hover {opacity: 0.7;}}
 
 /* The Modal (background) */
+@media only screen and (min-height: 400px){
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
@@ -1841,7 +1897,7 @@ div.container3 {
     text-decoration: none;
     cursor: pointer;
 }
-
+}
 /* 100% Image Width on Smaller Screens */
 @media only screen and (max-width: 700px){
     .modal-content {
@@ -1850,6 +1906,7 @@ div.container3 {
 }
 
 <!--cal-->
+@media only screen and (min-height: 400px){
 div#footer {
   position:absolute;
   top:665px;
@@ -1860,8 +1917,8 @@ div#footer {
   text-align: center;
   font-size:13px;
   color:white;
-}
-
+	}}
+@media only screen and (min-height: 400px){
 ul.menu {
     float: left;
     margin: 0;
@@ -1875,7 +1932,7 @@ ul.menu {
     padding: 0 0 0 9px;
     list-style: none;
     margin: 8px 4px 0 4px;
-}
+	}}
 a:link,a:hover, a:active, a:visited{
 	position: relative;
 	top:-550px;
@@ -1898,7 +1955,8 @@ a:link,a:hover, a:active, a:visited{
 
 }
 
- #a a:link {
+@media only screen and (min-height: 400px){
+	#a a:link {
 	position: relative;
 	top:-550px;
 	left:120px;
@@ -1916,14 +1974,15 @@ a:link,a:hover, a:active, a:visited{
 	text-decoration: none;
 	display: inline-block;
 
-}
-
-body{
+	}}
+@media only screen and (min-height: 400px){
+html,body{
 	background-image: url("images/fin.png");
 	background-repeat:no-repeat;
 	height:100%;
 	width:100%;
-}
+	}}
+@media only screen and (min-height: 400px){
 .kyle{
 	font-family:berlin sans fb denim;
 	font-size: 115px;
@@ -1974,8 +2033,8 @@ body{
 	left: 440px;
 	box-shadow: 5px 5px rgba(255,255,255,0.5);
 	border-radius:20px;
-}
-
+}}
+@media only screen and (min-height: 400px){
 div.container4 {
     text-align: left;
   width: 770px;
@@ -2057,9 +2116,12 @@ div.container4 {
 
 .modal-body6 {padding: -20px 10px;
  overflow: auto;}
+}
 
- /* The Modal (background) */
-.modal2 {
+/* The Modal (background) */
+
+@media only screen and (min-height: 400px){
+	.modal2 {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
@@ -2124,4 +2186,4 @@ div.container4 {
  overflow: auto;}
 
 	 
- }
+}}
